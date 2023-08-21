@@ -1,0 +1,108 @@
+.nav-link {
+  
+    font-size: 20px;
+   font-weight: bold;
+   margin: 0px 10px;
+}
+.navbar-brand{
+    color:deeppink;
+    font-weight: bold;
+  
+}
+.studio{
+    margin: 0px 50px;
+}
+.studio h2{
+    color:deeppink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.studio h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 110px;
+}
+.studio h1> .span1{
+    color:deeppink;
+    font-size: 120px;;
+}
+.button{
+    display: flex;
+}
+.button button{
+    color: white;
+    background-color: deeppink;
+    border: 1px;
+    outline: none;
+    border-radius: 5px;
+}
+.button h3{
+    margin:0px 10px;
+}
+h2> .Dancer{
+    color:deeppink;
+    cursor: pointer;
+}
+.Dancer{
+    color: deeppink;
+}
+.w-25{
+    color:white;
+    border:none;
+    border-radius: 5px;
+    background-color: deeppink;
+    font-weight: 700;
+    height: 50px;
+    margin-right: 20px;
+
+}
+
+.fs-4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 40px;
+}
+.Dancer h1> span{
+    margin-top: 20px;
+}
+.container-fluid{
+    margin-top: 100px;
+}
+.user{
+    margin-top: 100px;
+}
+footer>.container-fluid{
+    border: 2px solid rgb(213, 79, 193);
+}
+.img>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0px 5px;
+}
+/*Awefont*/
+.font{
+    display:flex;
+    justify-content:center;
+    padding: 0px 20px;
+    align-items: center;
+}
+.font>div{
+    margin: 0px 20px;
+}
+.font>div>i{
+    font-size: 50px;
+}
+.font>div>i:hover{
+    color: deeppink;
+    cursor: pointer;
+}
+footer>.font{
+    border: none;
+    margin-top: 100px;
+}
+.fonts>div>a{
+    text-decoration: none;
+    margin: 0px 2px;
+    color: rgb(57, 53, 53);
+}
+.fonts>div>a:hover{
+    color: deeppink;
+}
